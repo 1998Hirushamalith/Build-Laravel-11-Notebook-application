@@ -7,6 +7,157 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+#### Application structure for NoteBook application
+
+
+
+Notebook snapshots (landing page)
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/b3d43559-fc4e-43c0-93cf-411c33642dca)
+
+
+
+Login page
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/ceb83246-7370-4343-873b-432c120a9468)
+
+
+Input user credentails to login
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/49c3ddd3-41eb-4c3d-b8ff-a95e699f3872)
+
+
+Create user note page
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/e0599444-877b-4bc4-9c2c-ed63c98a41e6)
+
+
+User input data in to create new user note
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/6d0b5fdf-d07b-4222-a9df-3169387ded9c)
+
+
+Once user submitted the create new user note data
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/0a44f650-c853-4ec9-b2f9-521774c6240f)
+
+
+It will appeared under user notes dashboard
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/e929a07a-83fa-485f-af5a-555ecc59996e)
+
+
+Edit user note
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/33715092-47be-4113-ab76-4101cf45edd3)
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/9d244339-6b84-410f-9548-1e2c468267fd)
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/2ca5b30b-64dc-49e8-b279-fbca5fd90e7a)
+
+
+User profile
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/b84fde29-2680-41c5-bacd-303ad89b26d0)
+
+
+auth Validation
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/b3ae893d-bc41-452e-9574-66732937a4dd)
+
+
+New User registration
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/da80c029-219d-4e58-977d-29a63d0e8972)
+
+
+User verification notification
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/6cc413bc-af7f-489f-a4dc-45dc5cf75931)
+
+
+User authentication - storage file
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/59231878-d14b-41ca-88bc-1bfc48040802)
+
+
+After the new user verified user authentication via email
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/50328781-9861-48d2-8d8d-cd1fe893e29b)
+
+
+new user note creation - test user note
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/a6065beb-9132-48fe-84e4-e347ec8bd3aa)
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/3f7d7c65-d26e-49bf-8f61-3f531b06ef82)
+
+
+Test user  - notes dashboard
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/464e138e-7a9e-4827-abc3-23691950726e)
+
+
+After the deletion
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/a6651651-f719-4a15-8b95-580b890085db)
+
+
+Logout
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/4b24d4c0-1c98-4fd3-ade7-bcf6e7c9441a)
+
+
+Error handling
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/611edf7a-1449-4a18-ac4a-4dcfcc7c857b)
+
+
+![image](https://github.com/1998Hirushamalith/Build-Laravel-11-Notebook-application/assets/130145482/654948d3-8d34-43d5-b508-bfbe2d25b13e)
+
+
+### Application structure - NoteBook application
+
+01.Laravel 11 Configuration
+02.Create Basic Route and Controller
+03.Generate Models and Migrations
+04.Generate Factory and Create Seed Data
+05.Generate Resource Controller
+06.Generate Resource Routes
+07.Create Blade Files for CRUD
+08.Generate Layout
+09.Render Notes
+10.Include CSS and JS Files
+11.Define Views
+12.Note Create
+13.Note Update
+14.Note Delete
+15.Implement Pagination
+16.Add Registration and Login - by using laravel breeze
+17.Filter Notes by Authenticated User
+18.Adjust Navigation Links
+19.Customize Forbidden View - 403 error handling
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
