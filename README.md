@@ -138,25 +138,25 @@ Error handling
 
 ### Application structure - NoteBook application
 
-01.Laravel 11 Configuration
-02.Create Basic Route and Controller
-03.Generate Models and Migrations
-04.Generate Factory and Create Seed Data
-05.Generate Resource Controller
-06.Generate Resource Routes
-07.Create Blade Files for CRUD
-08.Generate Layout
-09.Render Notes
-10.Include CSS and JS Files
-11.Define Views
-12.Note Create
-13.Note Update
-14.Note Delete
-15.Implement Pagination
-16.Add Registration and Login - by using laravel breeze
-17.Filter Notes by Authenticated User
-18.Adjust Navigation Links
-19.Customize Forbidden View - 403 error handling
+01.    Laravel 11 Configuration
+02.    Create Basic Route and Controller
+03.    Generate Models and Migrations
+04.    Generate Factory and Create Seed Data
+05.    Generate Resource Controller
+06.    Generate Resource Routes
+07.    Create Blade Files for CRUD
+08.    Generate Layout
+09.    Render Notes
+10.    Include CSS and JS Files
+11.    Define Views
+12.    Note Create
+13.    Note Update
+14.    Note Delete
+15.    Implement Pagination
+16.    Add Registration and Login - by using laravel breeze
+17.    Filter Notes by Authenticated User
+18.    Adjust Navigation Links
+19.    Customize Forbidden View - 403 error handling
 
 ## About Laravel
 
